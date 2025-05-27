@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "thumbnail": "https://i.ibb.co/NgDb7x0L/Netflix-2015-logo-svg.png",
+    "name": "Netflix Premium",
+    "category": "Movie Streaming",
+    "price": "$19.99",
+    "frequency": "Monthly"
+  },
+  {
+    "id": 2,
+    "thumbnail": "https://i.ibb.co/Lzh9MVyV/prime-video.png",
+    "name": "Prime Video Ultra",
+    "category": "Movie Streaming",
+    "price": "$14.99",
+    "frequency": "Monthly"
+  },
+  {
+    "id": 3,
+    "thumbnail": "https://i.ibb.co/xKB1q0r3/disnep.png",
+    "name": "Disney+ Family",
+    "category": "Movie Streaming",
+    "price": "$9.99",
+    "frequency": "Monthly"
+  },
+  {
+    "id": 4,
+    "thumbnail": "https://i.ibb.co/KpymTS3b/download.png",
+    "name": "Max (HBO) Pro",
+    "category": "Movie Streaming",
+    "price": "$15.99",
+    "frequency": "Monthly"
+  },
+  {
+    "id": 5,
+    "thumbnail": "https://i.ibb.co/9mryyQR1/hulu.png",
+    "name": "Hulu Ad-Free",
+    "category": "Movie Streaming",
+    "price": "$17.99",
+    "frequency": "Monthly"
+  },
+  {
+    "id": 6,
+    "thumbnail": "https://i.ibb.co/35K1RyMR/NUP-134426-0283.webp",
+    "name": "Peacock Premium",
+    "category": "Movie Streaming",
+    "price": "$5.99",
+    "frequency": "Monthly"
+  }
+]
