@@ -8,19 +8,19 @@ https://movie-subscription-box.surge.sh
 CineFlow is a specialized Movie Streaming Subscription Box Website that lets users browse, subscribe to, and manage monthly streaming service bundles. Instead of juggling multiple platforms, users can explore curated subscription "boxes" tailored to their movie-watching preferences — offering access to selected services each month in one place. The goal is to simplify content access while offering flexibility and personalization.
 
 🚀 Key Features:
-🔐 Secure login & registration using Firebase Authentication
+Secure login & registration using Firebase Authentication
 
-🔒 Private routing to protect user-specific pages and subscriptions
+Private routing to protect user-specific pages and subscriptions
 
-🧑‍💼 Profile update and password reset capabilities
+Profile update and password reset capabilities
 
-📁 Organized subscription categories (e.g., Action, Drama, Sci-Fi)
+Organized subscription categories (e.g., Action, Drama, Sci-Fi)
 
-📦 Category details showing platform info, price, and user reviews
+Category details showing platform info, price, and user reviews
 
-✍️ Users can write and view reviews for each subscription box
+Users can write and view reviews for each subscription box
 
-🎨 Stylish UI with modern gradient-themed cards and smooth transitions
+Stylish UI with modern gradient-themed cards and smooth transitions
 
 📦 NPM Packages Used:
 firebase, react-router-dom, tailwindcss, daisyui, sweetalert2
