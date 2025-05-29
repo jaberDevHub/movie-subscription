@@ -6,7 +6,7 @@ const movies = [
     "title": "Die Hard",
     "year": "1988",
     "imageUrl": "https://placehold.co/300x450/1f2937/ffffff?text=Die+Hard&font=Inter",
-    "tags": ["Action", "Thriller", "Classic", "HD1"]
+    "tags": ["Action", "Thriller", "Classic", "HD"]
   },
   {
     "id": 2,
