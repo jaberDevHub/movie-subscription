@@ -32,7 +32,7 @@ export default function Login() {
   };
 
   return (
-   <div className="p-8 max-w-md mx-auto bg-gradient-to-br from-gray-900 to-gray-800 shadow-2xl rounded-xl border border-gray-700 backdrop-blur-sm">
+   <div className="p-8 max-w-md mx-auto bg-gradient-to-br from-gray-900 to-gray-800 shadow-2xl rounded-xl border border-gray-700 backdrop-blur-sm mt-15">
   <div className="text-center mb-8">
     <h2 className="text-3xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-amber-400 to-amber-600 mb-2">
       Welcome Back

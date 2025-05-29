@@ -1,4 +1,4 @@
-// src/App.jsx
+
 import React, { useEffect, useState } from "react";
 import { useLocation } from "react-router-dom";
 import { onAuthStateChanged } from "firebase/auth";
@@ -18,8 +18,8 @@ function App() {
     return () => unsubscribe();
   }, []);
 
-  // Don't show navbar/footer on 404 page
-  const hideLayoutRoutes = ["/404"]; // You can match more if needed
+
+  const hideLayoutRoutes = ["/404"]; 
   const isLayoutVisible = !hideLayoutRoutes.includes(location.pathname);
 
   return (

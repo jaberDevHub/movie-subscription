@@ -38,8 +38,8 @@ const featuredMovies = [
 const FeaturedContent = () => {
   return (
     <section className="py-16 bg-gray-100 dark:bg-base-300">
-      <div className="max-w-7xl mx-auto px-4 *:border">
-        <div className="w-fit mx-auto p-4 md:p-6 bg-base-200 rounded-xl shadow-xl mb-10 *:border border border-base-content/10">
+      <div className="max-w-7xl mx-auto px-4">
+        <div className="w-fit mx-auto p-4 md:p-6 bg-base-200 rounded-xl shadow-xl mb-10  border border-base-content/10">
           <h2 className="text-3xl font-extrabold text-indigo-700 drop-shadow-md tracking-tight whitespace-nowrap">
             Featured Entertainment
           </h2>
